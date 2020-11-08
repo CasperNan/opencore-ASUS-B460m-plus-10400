@@ -1,5 +1,8 @@
 # opencore-ASUS-B460m-plus-10400
 
+### Opencore v0.6.3 系统版本 10.15.7
+
+
 设备配置
 - Asus B460m plus
 - Intel 10400
@@ -9,7 +12,7 @@
 - MacPro7,1
 - 独显驱动 输出 已硬解
 
-![系统信息](https://github.com/CasperNan/opencore-ASUS-B460m-plus-10400/blob/master/images/image1.jpeg?raw=true)
+![系统信息](https://github.com/CasperNan/opencore-ASUS-B460m-plus-10400/blob/master/images/image1.png?raw=true)
 
 ![VideoProc](https://github.com/CasperNan/opencore-ASUS-B460m-plus-10400/blob/master/images/image2.png?raw=true)
 
@@ -20,5 +23,9 @@
 - opencore启动增加图形化界面
 - 解决了内存显示错误的问题
 - 声卡正常
+
+注意！！
+1. config文件需要自己生成并填写SMBIOS
+2. 需要自己去下载Resource文件夹生成图形启动 [acidanthera/OcBinaryData](https://github.com/acidanthera/OcBinaryData)
 
 感谢各位大佬的教程及驱动！敬礼！
